@@ -1,0 +1,4 @@
+c:\users\mvannortwick\documents\visual studio 2012\Projects\monte example ni 9214 tc fast reads\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+c:\users\mvannortwick\documents\visual studio 2012\Projects\monte example ni 9214 tc fast reads\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+c:\users\mvannortwick\documents\visual studio 2012\Projects\monte example ni 9214 tc fast reads\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\mvannortwick\documents\visual studio 2012\Projects\monte example ni 9214 tc fast reads\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
